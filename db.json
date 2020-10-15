@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is the post one body for something.",
+      "publishedAt": "10-03-2020"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post two body",
+      "publishedAt": "10-06-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post three body",
+      "publishedAt": "10-09-2020"
+    },
+    {
+      "title": "Post Four",
+      "body": "Body for post Four",
+      "publishedAt": "2020-10-15",
+      "id": "Tciimki"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com"
+    }
+  ]
+}
